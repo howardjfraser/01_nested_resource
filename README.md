@@ -1,3 +1,3 @@
-# 00 Foundation
+# 01 Nested Resources
 
-This very simple CRUD app is the starting point for more interesting examples.
+This example adds a nested resource <em>Message</em> to <em>People</em>. and uses <code>includes</code> for eager loading.
